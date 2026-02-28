@@ -1,0 +1,21 @@
+ID_Prodotto, Nome_Prodotto        , Categoria , Prezzo, Fornitore          , Margine_Percentuale
+        101, iPhone 15            , Smartphone,    999, Apple Inc.         ,                  35
+        102, Samsung Galaxy S24   , Smartphone,    899, Samsung Electronics,                  32
+        103, Google Pixel 8       , Smartphone,    699, Google LLC         ,                  30
+        104, OnePlus 12           , Smartphone,    799, OnePlus            ,                  28
+        105, MacBook Air M3       , Laptop    ,   1299, Apple Inc.         ,                  38
+        106, Dell XPS 15          , Laptop    ,   1499, Dell Technologies  ,                  35
+        107, HP Spectre x360      , Laptop    ,   1199, HP Inc.            ,                  33
+        108, Lenovo ThinkPad X1   , Laptop    ,   1399, Lenovo             ,                  34
+        109, ASUS ZenBook         , Laptop    ,    999, ASUS               ,                  32
+        110, "iPad Pro 12.9"""    , Tablet    ,   1099, Apple Inc.         ,                  36
+        111, Samsung Galaxy Tab S9, Tablet    ,    849, Samsung Electronics,                  33
+        112, Microsoft Surface Pro, Tablet    ,    999, Microsoft          ,                  34
+        113, AirPods Pro 2        , Accessori ,    279, Apple Inc.         ,                  42
+        114, Magic Mouse          , Accessori ,     89, Apple Inc.         ,                  45
+        115, Logitech MX Master   , Accessori ,    119, Logitech           ,                  40
+        116, USB-C Hub            , Accessori ,     49, Anker              ,                  50
+        117, Sony WH-1000XM5      , Audio     ,    399, Sony               ,                  38
+        118, Bose QuietComfort    , Audio     ,    349, Bose               ,                  36
+        119, JBL Flip 6           , Audio     ,    129, JBL                ,                  42
+        120, HomePod mini         , Audio     ,     99, Apple Inc.         ,                  40
